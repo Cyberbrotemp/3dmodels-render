@@ -1,73 +1,32 @@
-# Welcome to your Lovable project
+\# Vibe Coder - Disclaimer & Usage Notice
 
-## Project info
+This project "Vibe Coder" is proudly developed and shared by **CyberBroTemp** and **NaveenHacking**.
 
-**URL**: https://lovable.dev/projects/f5d3b569-0139-4f61-b2e1-731c182a57a1
+## Disclaimer
 
-## How can I edit this code?
+- This project is shared for **educational and personal use**.
+- There is **no license restriction** — you're free to **use, modify, distribute, or remix** any part of this project.
+- **No copyright or license is enforced.**
 
-There are several ways of editing your application.
+## You Can:
 
-**Use Lovable**
+✅ Use the code in your personal or commercial projects  
+✅ Modify or enhance it as per your needs  
+✅ Share it freely with others  
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/f5d3b569-0139-4f61-b2e1-731c182a57a1) and start prompting.
+## You Cannot:
 
-Changes made via Lovable will be committed automatically to this repo.
+❌ Use this project for malicious, unethical, or illegal purposes  
+❌ Remove the credits to **CyberBroTemp** and **NaveenHacking** unless you make major changes
 
-**Use your preferred IDE**
+## Credits
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+Made with 💻 by:  
+- **CyberBroTemp**  
+- **NaveenHacking**  
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Mention our IDs when sharing:  
+- CyberBroTemp  
+- NaveenHacking  
 
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/f5d3b569-0139-4f61-b2e1-731c182a57a1) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+Enjoy coding with Vibe Coder 🚀
