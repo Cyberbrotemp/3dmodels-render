@@ -85,7 +85,7 @@ export default function Developer() {
           <div className="space-y-3 lg:space-y-4 text-sm lg:text-base text-muted-foreground">
             <p>
               I'm a frontend developer with a passion for 3D graphics and interactive web experiences. 
-              With over 5 years of experience in web development, I specialize in creating performant, 
+              With overt, I specialize in creating performant, 
               beautiful applications that push the boundaries of what's possible in the browser.
             </p>
             <p>
